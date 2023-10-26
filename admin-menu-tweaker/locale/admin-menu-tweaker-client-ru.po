@@ -1,0 +1,413 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-29 03:16+0000\n"
+"PO-Revision-Date: 2017-02-01 02:19+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Russian <http://translate.amino-studio.com/projects/admin-"
+"menu-tweaker/client/ru/>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2.10.1\n"
+
+msgid "Activate your copy"
+msgstr "Активация"
+
+msgid "Do you really want to close activation window?"
+msgstr "Вы точно хотите закрыть окно активации?"
+
+msgid "Activation error."
+msgstr "Ошибка активации."
+
+msgid "Downloads page"
+msgstr "Страница загрузок"
+
+msgid "Enter your Purchase code and press 'Activate'..."
+msgstr "Введите свой код и нажмите «Активировать»..."
+
+msgid "Error. Please, try later."
+msgstr "Ошибка. Пожалуйста, попробуйте позже."
+
+msgid "Open Control Page"
+msgstr "Открыть страницу настроек"
+
+#. Example: Open you CodeCanyon <a>Downloads Page</a> and click "Download" button and select "License certificate &amp; purchase code (text)" in sub-menu. 
+#. Open text file in your favorite editor, insert your Purchase Code bellow and click "Activate".
+msgid ""
+"Open you CodeCanyon {downloadsPageLink} and click \"Download\" button and "
+"select \"License certificate &amp; purchase code (text)\" in sub-menu.\n"
+"Open text file in your favorite editor, insert your Purchase Code bellow and "
+"click \"Activate\"."
+msgstr ""
+"Откройте на CodeCanyon страницу загрузок ({downloadsPageLink}) и нажмите "
+"кнопку «Download» и выберите «License certificate &amp; 1 purchase code "
+"(text)» в подменю.\n"
+"Откройте текстовый файл в любимом редакторе и скопируйте код в поле ниже и "
+"нажмите «Активировать»."
+
+msgid "Please enter valid code!"
+msgstr "Пожалуйста, введите верный код!"
+
+msgid ""
+"You can use one purchase code only for one single product (domain name) and "
+"it will be linked to your domain name.\n"
+"Activation is not required for local domains and IP addresses (localhost, *."
+"dev, *.local, 127.0.0.1, 172.16.0.1, 192.168.0.1 and etc.).\n"
+"If you have any problems or questions contact us."
+msgstr ""
+"Вы можете использовать только один код заказа для одного продукта (доменного "
+"имени) и он будет привязян к доменному имени.\n"
+"Активация не требуется для локальных доменов и IP адресов (localhost, *.dev, "
+"*.local, 127.0.0.1, 172.16.0.1, 192.168.0.1 и др.).\n"
+"Если у Вас какие-либо проблемы или вопросы напишите нам."
+
+msgid "You copy is activated for this domain name!"
+msgstr "Ваша копия активирована для этого сайта!"
+
+msgid ""
+"You need to activate your plugin copy for automatic updates and support."
+msgstr ""
+"Вам необходимо активировать Вашу копию плагина для получения автоматических "
+"обновлений и поддержки."
+
+msgid "Your plugin copy is activated by your purchase code:"
+msgstr "Ваша копия активирована кодом:"
+
+msgid "Additional actions:"
+msgstr "Дополнительные действия:"
+
+msgid "CUSTOM MENU:"
+msgstr "СВОЁ МЕНЮ:"
+
+msgid "CUSTOM SEPARATOR"
+msgstr "СВОЙ РАЗДЕЛИТЕЛЬ"
+
+msgid "Content:"
+msgstr "Контент:"
+
+msgid "Custom page slug"
+msgstr "Нестандартное короткое имя"
+
+msgid "Do you really want to remove?"
+msgstr "Вы точно хотите удалить?"
+
+msgid "ELEMENT DESTINATION"
+msgstr "НАЗНАЧЕНИЕ ЭЛЕМЕНТА"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Page URL will be:"
+msgstr "Ссылка страницы будет:"
+
+msgid "Remove element"
+msgstr "Удалить элемент"
+
+msgid "Select custom element type"
+msgstr "Выберите тип вашего элемента"
+
+msgid "Separator"
+msgstr "Разделитель"
+
+msgid "URL redirection"
+msgstr "URL перенаправление"
+
+msgid "URL:"
+msgstr "URL:"
+
+msgid "WordPress uses the slug to compose page URL."
+msgstr "WordPress использует короткое имя для составления ссылки страницы."
+
+msgid "SELECTED MENU:"
+msgstr "Выбранное меню:"
+
+msgid "ADVANCED"
+msgstr "РАСШИРЕННЫЕ"
+
+msgid "Capability"
+msgstr "Возможности пользователя"
+
+msgid "Hide section"
+msgstr "Скрыть раздел"
+
+msgid "Icon class"
+msgstr "CSS class иконки"
+
+msgid ""
+"If capability is available for user, he sees the element. This field is read-"
+"only. If you want to deny access, use firewall."
+msgstr ""
+"Если пользователь имеет данную возможность, тогда он увидит элемент. Это "
+"поле только для чтения. Если Вы хотите запретить доступ, используйте "
+"firewall."
+
+msgid "Position"
+msgstr "Позиция"
+
+msgid "Show section"
+msgstr "Показать раздел"
+
+msgid "The slug name"
+msgstr "Короткое имя"
+
+msgid ""
+"The slug name is read-only. If you want to make a page with another slug, "
+"you can create new page."
+msgstr ""
+"Короткое имя только для чтения. Создайте новую страницу, если Вы хотите "
+"использовать другое имя."
+
+msgid "This field is read-only. It is shown for information purposes."
+msgstr "Это поле только для чтения и отображается в качестве информации."
+
+msgid ""
+"You can define position manually or drag & drop elements in the left panel."
+msgstr ""
+"Вы можете задать позицию вручную или использовать перетаскивания элементов в "
+"левой части."
+
+msgid "ICON"
+msgstr "ИКОНКА"
+
+msgid "Icons library"
+msgstr "Библиотека иконок"
+
+msgid "Image"
+msgstr "Изображение"
+
+msgid "Please, enter url of your image..."
+msgstr "Пожалуйста, введите ссылку изображения..."
+
+msgid "Select"
+msgstr "Выбрать"
+
+msgid "Select icon"
+msgstr "Выбор иконки"
+
+msgid "Select image from Media"
+msgstr "Выбрать изображение из Галереи"
+
+msgid "URL of image"
+msgstr "URL изображения"
+
+msgid "Upload image"
+msgstr "Загрузить"
+
+msgid "Color:"
+msgstr "Цвет:"
+
+msgid "Design"
+msgstr "Стиль"
+
+msgid "Style:"
+msgstr "Вариант:"
+
+msgid "Width:"
+msgstr "Ширина:"
+
+msgid "Filter:"
+msgstr "Фильтр:"
+
+msgid "Firewall"
+msgstr "Firewall"
+
+msgid "General"
+msgstr "Основные"
+
+msgid "Hidden and access is available by URL"
+msgstr "Скрыт, но доступен по ссылке"
+
+msgid "Hidden and access is denied"
+msgstr "Скрыт и доступ ограничен"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Visible"
+msgstr "Виден"
+
+msgid "Hidden"
+msgstr "Скрыт"
+
+msgid "SELECTED SEPARATOR"
+msgstr "ВЫБРАННЫЙ РАЗДЕЛИТЕЛЬ"
+
+msgid "Export"
+msgstr "Экспорт"
+
+msgid "Import"
+msgstr "Импорт"
+
+msgid "Parse error, please enter correct data."
+msgstr "Ошибка обработки, пожалуйста введите правильные данные."
+
+msgid "Paste data and press 'Import'..."
+msgstr "Введите данные и нажмите «Импорт»..."
+
+msgid "You need to save to apply import!"
+msgstr "Сохраните для применения импортированных данных!"
+
+msgid "Import/Export"
+msgstr "Импорт/Экспорт"
+
+msgid "Support"
+msgstr "Поддержка"
+
+msgid "Do you want to reset all settings?"
+msgstr "Вы точно хотите сбросить все настройки?"
+
+msgid "Reset All"
+msgstr "Сбросить Все"
+
+msgid "Save Changes"
+msgstr "Сохранить"
+
+msgid "Saving..."
+msgstr "Сохранение..."
+
+msgid "Global"
+msgstr "Общие"
+
+msgid "Role:"
+msgstr "Роль:"
+
+msgid "User:"
+msgstr "Пользователь:"
+
+#. Example: Go to <a>Main page</a>
+msgid "Go to {mainPageLink}"
+msgstr "Перейти на {mainPageLink}"
+
+#. Example: Go to <a>Main page</a>
+msgid "Main page"
+msgstr "Главная страница"
+
+msgid "Page Not Found"
+msgstr "Страница не найдена"
+
+msgid "Go back to Control Page"
+msgstr "Перейти назад на страницу настроек"
+
+msgid "If you have any questions or suggestions, you can contact us any time."
+msgstr ""
+"Если у Вас есть любые вопросы или предложения, напишите нам в любое время."
+
+msgid "Support or Suggestion"
+msgstr "Поддержка или Предложение"
+
+#. Example: Support page and contact information is <a>here</a>
+msgid "Support page and contact information is {here}."
+msgstr "Страница поддержки и контактная информация {here}."
+
+msgid "We provide support only in English."
+msgstr "Мы предоставляем поддержку только на английской языке."
+
+#. Example: You can download is <a>here</a>
+msgid "here"
+msgstr "здесь"
+
+msgid "All items are visible"
+msgstr "Все элементы видны"
+
+msgid "Collapse all"
+msgstr "Свернуть все"
+
+msgid "Create new element"
+msgstr "Создать новый элемент"
+
+msgid "Expand all"
+msgstr "Развернуть все"
+
+#. All items are visible (<a>Hide them</>)
+msgid "Hide them"
+msgstr "Скрыть их"
+
+msgid ""
+"If selected role or user does not have some menu capabilities, menu will be "
+"hidden. <br/>Some plugins show menu items runtime and we can't detect "
+"visibility."
+msgstr ""
+"Меню будет скрыто, если выбранная роль или пользователь не имеют некоторых "
+"возможностей. <br/>Некоторые плагины показывают элементы меню во врем "
+"выполнения и мы не можем определить видимость."
+
+#. Some items are hidden (<a>Show all</>)
+msgid "Show all"
+msgstr "Показать все"
+
+msgid "Some items are hidden"
+msgstr "Некоторые элементы скрыты"
+
+msgid ""
+"If you block an access to one \"customize.php\" menu item, all \"customize."
+"php\" pages will be blocked."
+msgstr ""
+"Если Вы заблокируете доступ к одному элементу «customize.php», то все "
+"элементы меню ведущие на «customize.php» будут заблокированы."
+
+msgid "Items have same URLs and WordPress can select these elements together!"
+msgstr ""
+"Элементы с одинаковыми ссылками и WordPress может подсветить эти элементы "
+"одновременно!"
+
+msgid "separator"
+msgstr "разделитель"
+
+msgid "Thank you for purchasing!"
+msgstr "Спасибо Вам за покупку!"
+
+msgid ""
+"We make our hard work to do your life with WordPress better.\n"
+"We are always close to you."
+msgstr ""
+"Мы делаем нашу тщательную работу, чтобы сделать Вашу жизнь с WordPress "
+"лучше.\n"
+"Мы всегда рядом с Вами."
+
+msgid "Loading error"
+msgstr "Ошибка загрузки"
+
+msgid "Please, try one more time!"
+msgstr "Пожалуйста, попробуйте еще раз!"
+
+msgid ""
+"Error, Please try reload page and write to support@amino-studio.com, we will "
+"help you."
+msgstr ""
+"Ошибка, пожалуйста попробуйте перезагрузить страницу и написать на "
+"support@amino-studio.com, мы Вам поможем."
+
+msgid "Please save settings!"
+msgstr "Пожалуйста сохраните настройки!"
+
+msgid "Settings have been saved."
+msgstr "Настройки сохранены."
+
+msgid "Settings reset is completed."
+msgstr "Настройки сброшены."
+
+#~ msgid "Hide and deny access"
+#~ msgstr "Скрыть и запретить доступ"
+
+#~ msgid ""
+#~ "We make our hard work to do your life with WordPress better.\n"
+#~ "We are always close to you.\n"
+#~ "\n"
+#~ "If you have any questions or suggestions, you can contact us any time.\n"
+#~ "Support page and contact information is {link}."
+#~ msgstr ""
+#~ "Мы делаем нашу тщательную работу, чтобы сделать Вашу жизнь с WordPress "
+#~ "лучше.\n"
+#~ "Мы всегда рядом с Вами.\n"
+#~ "\n"
+#~ "Если у Вас есть любые вопросы или предложения, напишите нам в любое "
+#~ "время.\n"
+#~ "Страница поддержки и контактная информация {link}."

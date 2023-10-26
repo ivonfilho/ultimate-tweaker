@@ -1,0 +1,107 @@
+
+@require "flat";
+
+#adminmenu, #adminmenu .wp-submenu, #adminmenuback, #adminmenuwrap {
+    background transparent
+}
+
+textColor = #fff
+colorBg = #2c3e50
+
+#adminmenuwrap {
+    background rgba(colorBg, .6)
+}
+
+#adminmenu div.wp-menu-image:before, #adminmenu .wp-menu-name {
+    color: textColor;
+}
+
+#adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head, #adminmenu .wp-menu-arrow, #adminmenu .wp-menu-arrow div, #adminmenu li.current a.menu-top, #adminmenu li.wp-has-current-submenu a.wp-has-current-submenu, .folded #adminmenu li.current.menu-top, .folded #adminmenu li.wp-has-current-submenu {
+    background rgba(colorBg, .95) !important
+}
+
+#adminmenu .wp-has-current-submenu .wp-submenu, #adminmenu .wp-has-current-submenu .wp-submenu.sub-open, #adminmenu .wp-has-current-submenu.opensub .wp-submenu, #adminmenu a.wp-has-current-submenu:focus+.wp-submenu, .no-js li.wp-has-current-submenu:hover .wp-submenu {
+    background rgba(colorBg, .75) !important
+}
+
+#adminmenu li.menu-top {
+    transition background .2s
+}
+
+#adminmenu li.menu-top:hover, #adminmenu li.opensub>a.menu-top, #adminmenu li>a.menu-top:focus {
+    background rgba(colorBg, .75) !important
+}
+
+#adminmenu .wp-submenu, .folded #adminmenu .wp-has-current-submenu .wp-submenu, .folded #adminmenu a.wp-has-current-submenu:focus+.wp-submenu {
+    background rgba(colorBg, .95) !important
+}
+
+#adminmenu li.wp-has-submenu.wp-not-current-submenu.opensub:hover:after {
+    background rgba(colorBg, .95) !important
+}
+
+#wpadminbar {
+    background rgba(colorBg, .6)
+}
+
+#wpadminbar .ab-top-menu>li.hover>.ab-item, #wpadminbar .ab-top-menu>li:hover>.ab-item, #wpadminbar .ab-top-menu>li>.ab-item:focus, #wpadminbar.nojq .quicklinks .ab-top-menu>li>.ab-item:focus {
+    background rgba(colorBg, .75) !important
+}
+
+#wpadminbar .menupop .ab-sub-wrapper, #wpadminbar .shortlink-input {
+    background rgba(colorBg, .95) !important
+}
+
+#activity-widget #the-comment-list .comment-item {
+    background rgba(colorBg, .95) !important
+}
+
+.postbox,.stuffbox {
+    background rgba(colorBg, .75) !important
+    border 1px solid rgba(colorBg, .95) !important
+
+    color textColor
+    h3 {
+        color textColor
+    }
+
+    .hndle {
+        border-bottom 1px solid rgba(textColor, .5) !important
+    }
+}
+
+
+html .wrap form {
+    background transparent !important
+}
+
+html .wrap h2 {
+    color textColor !important
+    background transparent !important
+    padding 0 !important
+}
+
+textarea, input {
+    background rgba(colorBg, .75) !important
+    border 1px solid rgba(colorBg, .95) !important
+}
+
+h4, textarea, input, .rssSummary,#woocommerce_dashboard_status .wc_status_list li a {
+    color textColor !important
+}
+
+.tablenav .displaying-num {
+    color textColor !important
+}
+
+.subsubsub {
+    background transparent !important
+
+    a {
+        color textColor !important
+
+        span {
+            color textColor !important
+        }
+    }
+}

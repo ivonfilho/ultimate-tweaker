@@ -1,0 +1,79 @@
+
+@font-face {
+    font-family: "ionicons";
+    src: url("ionicons/ionicons.eot?v=2.0.0");
+    src: url("ionicons/ionicons.eot?v=2.0.0#iefix") format("embedded-opentype"), url("ionicons/ionicons.ttf?v=2.0.0") format("truetype"), url("ionicons/ionicons.woff?v=2.0.0") format("woff"), url("ionicons/ionicons.svg?v=2.0.0#Ionicons") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font-icon-ionicons:before {
+    font-family: "ionicons";
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+    content: attr(data-char)
+}
+
+@font-face {
+    font-family: 'fontawesome';
+    src: url('fontawesome/fontawesome-webfont.eot?v=4.7.0');
+    src: url('fontawesome/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('fontawesome/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('fontawesome/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('fontawesome/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('fontawesome/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font-icon-fontawesome:before {
+    font-family: "fontawesome";
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+    content: attr(data-char)
+}
+
+@font-face {
+    font-family: "mdi";
+    src: url("mdi/materialdesignicons-webfont.eot?v=1.7.22");
+    src: url("mdi/materialdesignicons-webfont.eot?#iefix&v=1.7.22") format("embedded-opentype"), url("mdi/materialdesignicons-webfont.woff2?v=1.7.22") format("woff2"), url("mdi/materialdesignicons-webfont.woff?v=1.7.22") format("woff"), url("mdi/materialdesignicons-webfont.ttf?v=1.7.22") format("truetype"), url("mdi/materialdesignicons-webfont.svg?v=1.7.22#materialdesigniconsregular") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font-icon-mdi:before {
+    font-family: "mdi";
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+    content: attr(data-char)
+}
+
+@font-face {
+    font-family: "foundation";
+    src: url("foundation/foundation-icons.eot");
+    src: url("foundation/foundation-icons.eot?#iefix") format("embedded-opentype"),
+    url("foundation/foundation-icons.woff") format("woff"),
+    url("foundation/foundation-icons.ttf") format("truetype"),
+    url("foundation/foundation-icons.svg#fontcustom") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+.font-icon-foundation:before {
+    font-family: "foundation";
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+    content: attr(data-char)
+}
+
+.font-icon-dashicons:before {
+    font-family: "dashicons";
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+    content: attr(data-char)
+}

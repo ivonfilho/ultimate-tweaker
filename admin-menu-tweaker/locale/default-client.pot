@@ -1,0 +1,334 @@
+# Translation of WordPress Plugin
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Activate your copy"
+msgstr ""
+
+msgid "Do you really want to close activation window?"
+msgstr ""
+
+msgid "Activation error."
+msgstr ""
+
+msgid "Downloads page"
+msgstr ""
+
+msgid "Enter your Purchase code and press 'Activate'..."
+msgstr ""
+
+msgid "Error. Please, try later."
+msgstr ""
+
+msgid "Open Control Page"
+msgstr ""
+
+#. Example: Open you CodeCanyon <a>Downloads Page</a> and click "Download" button and select "License certificate &amp; purchase code (text)" in sub-menu. 
+#. Open text file in your favorite editor, insert your Purchase Code bellow and click "Activate".
+msgid "Open you CodeCanyon {downloadsPageLink} and click \"Download\" button and select \"License certificate &amp; purchase code (text)\" in sub-menu.\n"
+"Open text file in your favorite editor, insert your Purchase Code bellow and click \"Activate\"."
+msgstr ""
+
+msgid "Please enter valid code!"
+msgstr ""
+
+msgid "You can use one purchase code only for one single product (domain name) and it will be linked to your domain name.\n"
+"Activation is not required for local domains and IP addresses (localhost, *.dev, *.local, 127.0.0.1, 172.16.0.1, 192.168.0.1 and etc.).\n"
+"If you have any problems or questions contact us."
+msgstr ""
+
+msgid "You copy is activated for this domain name!"
+msgstr ""
+
+msgid "You need to activate your plugin copy for automatic updates and support."
+msgstr ""
+
+msgid "Your plugin copy is activated by your purchase code:"
+msgstr ""
+
+msgid "Additional actions:"
+msgstr ""
+
+msgid "CUSTOM MENU:"
+msgstr ""
+
+msgid "CUSTOM SEPARATOR"
+msgstr ""
+
+msgid "Content:"
+msgstr ""
+
+msgid "Custom page slug"
+msgstr ""
+
+msgid "Do you really want to remove?"
+msgstr ""
+
+msgid "ELEMENT DESTINATION"
+msgstr ""
+
+msgid "HTML"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Page URL will be:"
+msgstr ""
+
+msgid "Remove element"
+msgstr ""
+
+msgid "Select custom element type"
+msgstr ""
+
+msgid "Separator"
+msgstr ""
+
+msgid "URL redirection"
+msgstr ""
+
+msgid "URL:"
+msgstr ""
+
+msgid "WordPress uses the slug to compose page URL."
+msgstr ""
+
+msgid "SELECTED MENU:"
+msgstr ""
+
+msgid "ADVANCED"
+msgstr ""
+
+msgid "Capability"
+msgstr ""
+
+msgid "Hide section"
+msgstr ""
+
+msgid "Icon class"
+msgstr ""
+
+msgid "If capability is available for user, he sees the element. This field is read-only. If you want to deny access, use firewall."
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Show section"
+msgstr ""
+
+msgid "The slug name"
+msgstr ""
+
+msgid "The slug name is read-only. If you want to make a page with another slug, you can create new page."
+msgstr ""
+
+msgid "This field is read-only. It is shown for information purposes."
+msgstr ""
+
+msgid "You can define position manually or drag & drop elements in the left panel."
+msgstr ""
+
+msgid "ICON"
+msgstr ""
+
+msgid "Icons library"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Please, enter url of your image..."
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select icon"
+msgstr ""
+
+msgid "Select image from Media"
+msgstr ""
+
+msgid "URL of image"
+msgstr ""
+
+msgid "Upload image"
+msgstr ""
+
+msgid "Color:"
+msgstr ""
+
+msgid "Design"
+msgstr ""
+
+msgid "Style:"
+msgstr ""
+
+msgid "Width:"
+msgstr ""
+
+msgid "Filter:"
+msgstr ""
+
+msgid "Firewall"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Hidden and access is available by URL"
+msgstr ""
+
+msgid "Hidden and access is denied"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Visible"
+msgstr ""
+
+msgid "Hidden"
+msgstr ""
+
+msgid "SELECTED SEPARATOR"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Parse error, please enter correct data."
+msgstr ""
+
+msgid "Paste data and press 'Import'..."
+msgstr ""
+
+msgid "You need to save to apply import!"
+msgstr ""
+
+msgid "Import/Export"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "Do you want to reset all settings?"
+msgstr ""
+
+msgid "Reset All"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Saving..."
+msgstr ""
+
+msgid "Global"
+msgstr ""
+
+msgid "Role:"
+msgstr ""
+
+msgid "User:"
+msgstr ""
+
+#. Example: Go to <a>Main page</a>
+msgid "Go to {mainPageLink}"
+msgstr ""
+
+#. Example: Go to <a>Main page</a>
+msgid "Main page"
+msgstr ""
+
+msgid "Page Not Found"
+msgstr ""
+
+msgid "Go back to Control Page"
+msgstr ""
+
+msgid "If you have any questions or suggestions, you can contact us any time."
+msgstr ""
+
+msgid "Support or Suggestion"
+msgstr ""
+
+#. Example: Support page and contact information is <a>here</a>
+msgid "Support page and contact information is {here}."
+msgstr ""
+
+msgid "We provide support only in English."
+msgstr ""
+
+#. Example: You can download is <a>here</a>
+msgid "here"
+msgstr ""
+
+msgid "All items are visible"
+msgstr ""
+
+msgid "Collapse all"
+msgstr ""
+
+msgid "Create new element"
+msgstr ""
+
+msgid "Expand all"
+msgstr ""
+
+#. All items are visible (<a>Hide them</>)
+msgid "Hide them"
+msgstr ""
+
+msgid "If selected role or user does not have some menu capabilities, menu will be hidden. <br/>Some plugins show menu items runtime and we can't detect visibility."
+msgstr ""
+
+#. Some items are hidden (<a>Show all</>)
+msgid "Show all"
+msgstr ""
+
+msgid "Some items are hidden"
+msgstr ""
+
+msgid "If you block an access to one \"customize.php\" menu item, all \"customize.php\" pages will be blocked."
+msgstr ""
+
+msgid "Items have same URLs and WordPress can select these elements together!"
+msgstr ""
+
+msgid "separator"
+msgstr ""
+
+msgid "Thank you for purchasing!"
+msgstr ""
+
+msgid "We make our hard work to do your life with WordPress better.\n"
+"We are always close to you."
+msgstr ""
+
+msgid "Loading error"
+msgstr ""
+
+msgid "Please, try one more time!"
+msgstr ""
+
+msgid "Error, Please try reload page and write to support@amino-studio.com, we will help you."
+msgstr ""
+
+msgid "Please save settings!"
+msgstr ""
+
+msgid "Settings have been saved."
+msgstr ""
+
+msgid "Settings reset is completed."
+msgstr ""
+

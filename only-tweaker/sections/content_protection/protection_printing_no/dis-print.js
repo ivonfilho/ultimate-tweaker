@@ -1,0 +1,1 @@
+!function(e){e(document).bind("keyup keydown",function(e){if((e.ctrlKey||e.metaKey)&&80==e.keyCode)return e.preventDefault(),!1})}(jQuery);

@@ -1,0 +1,110 @@
+
+.separator-custom {
+    margin-bottom: -4px !important;
+}
+
+.separator-1 .separator {
+    border-top: 1px solid #aaa;
+}
+
+.separator-2 .separator {
+    border-top: 1px dashed #aaa;
+}
+
+.separator-3 .separator {
+    border-top: 1px dotted #aaa;
+}
+
+.separator-4 .separator {
+    border-top: 3px double #aaa;
+}
+
+.separator-5 .separator {
+    margin-top: 0px;
+    height: 6px !important;
+    background: url(hr-45deg.png) repeat-x 0 0;
+    border: none;
+}
+
+.separator-custom.separator-5 {
+    margin-bottom: 0px !important;
+}
+
+.separator-6 .separator {
+    margin-top: 0px;
+    height: 6px !important;
+    background: url(hr-zig.png) repeat-x 0 0;
+    border: none;
+}
+
+.separator-custom.separator-6 {
+    margin-bottom: 0px !important;
+}
+
+
+.separator-7 .separator {
+    height: 10px !important;
+    border: 0;
+    box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+.separator-custom.separator-7 {
+    margin-bottom: 0px !important;
+}
+
+.separator-8 .separator {
+    border: 0;
+    height: 1px !important;
+    background-image: -webkit-linear-gradient(left, #f0f0f0, #23282d, #f0f0f0);
+    background-image: -moz-linear-gradient(left, #f0f0f0, #23282d, #f0f0f0);
+    background-image: -ms-linear-gradient(left, #f0f0f0, #23282d, #f0f0f0);
+    background-image: -o-linear-gradient(left, #f0f0f0, #23282d, #f0f0f0);
+    background-image: linear-gradient(left, #f0f0f0, #23282d, #f0f0f0);
+}
+.separator-9 .separator {
+    border: 0;
+    height: 1px !important;
+    background-image: -webkit-linear-gradient(left, #f0f0f0, #23282d);
+    background-image: -moz-linear-gradient(left, #f0f0f0, #23282d);
+    background-image: -ms-linear-gradient(left, #f0f0f0, #23282d);
+    background-image: -o-linear-gradient(left, #f0f0f0, #23282d);
+    background-image: linear-gradient(left, #f0f0f0, #23282d);
+}
+.separator-10 .separator {
+    border: 0;
+    height: 1px !important;
+    background-image: -webkit-linear-gradient(left, #f0f0f0, #23282d, #23282d);
+    background-image: -moz-linear-gradient(left, #f0f0f0, #23282d, #23282d);
+    background-image: -ms-linear-gradient(left, #f0f0f0, #23282d, #23282d);
+    background-image: -o-linear-gradient(left, #f0f0f0, #23282d, #23282d);
+    background-image: linear-gradient(left, #f0f0f0, #23282d, #23282d);
+}
+
+.separator-width-5 .separator {
+    width: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.separator-width-15 .separator {
+    width: 15%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.separator-width-25 .separator {
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.separator-width-50 .separator {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.separator-width-75 .separator {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}

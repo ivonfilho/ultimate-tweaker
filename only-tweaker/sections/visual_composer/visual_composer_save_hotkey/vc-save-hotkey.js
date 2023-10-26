@@ -1,0 +1,1 @@
+!function(i){i(function(){Mousetrap.bindGlobal("mod+enter",function(n){var e=i(".vc_panel:visible,.vc_ui-panel-window:visible");e.length&&e.is(":visible")&&(e.find(".vc_btn-primary,.vc_ui-button-action").click(),n.preventDefault())})})}(jQuery);

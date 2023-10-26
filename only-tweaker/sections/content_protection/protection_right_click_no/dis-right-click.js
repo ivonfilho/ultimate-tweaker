@@ -1,0 +1,1 @@
+!function(e){window.addEventListener("contextmenu",function(e){var n=e||window.event,t=n.target||n.srcElement;"A"!=t.nodeName&&e.preventDefault()},!1),document.addEventListener("contextmenu",function(e){var n=e||window.event,t=n.target||n.srcElement;"A"!=t.nodeName&&e.preventDefault()},!1)}(jQuery);
