@@ -3,7 +3,7 @@
 Plugin Name: HostPress
 Plugin URI: https://hostpress.com.br/
 Description: Plugin de gerenciamento de WordPress por HostPress.com.br
-Version: 1.0.0
+Version: 2.0
 Text Domain: hostpress
 Author: HostPress <contato@hostpress.com.br>
 Author URI: https://hostpress.com.br/
