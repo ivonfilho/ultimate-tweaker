@@ -109,7 +109,8 @@ function desativar_notificacao() {
 echo '<style type="text/css">
 .notice.e-notice.e-notice--dismissible.e-notice--extended,
 .sbi_notice_op.sbi_notice.sbi_discount_notice,
-#yoast-first-time-configuration-notice {
+#yoast-first-time-configuration-notice,
+#astra-sites-on-active {
 display: none;
 }
 </style>';
